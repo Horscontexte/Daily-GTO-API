@@ -13,6 +13,7 @@ const GtoSchema = mongoose.Schema({
     pot: String,
     heroStack: String,
     vilainStack: String,
+    vilainBetSize: String,
     flop1: String,
     flop2: String,
     flop3: String,
