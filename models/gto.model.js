@@ -9,6 +9,7 @@ const GtoSchema = mongoose.Schema({
     vilainRange_percent: String,
     heroRange_percent: String,
     type: String,
+    blind: String,
     position: String,
     pot: String,
     heroStack: String,
